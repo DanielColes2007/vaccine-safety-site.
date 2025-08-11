@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: make focus outlines a bit nicer */
+:focus {
+  outline-offset: 2px;
+}
